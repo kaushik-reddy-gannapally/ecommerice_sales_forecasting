@@ -1,0 +1,8 @@
+pandas
+numpy
+psycopg2
+sqlalchemy
+scikit-learn
+dash
+plotly
+statsmodels
